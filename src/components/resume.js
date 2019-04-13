@@ -3,7 +3,7 @@ import {Grid, Cell, Footer,FooterDropDownSection,FooterLinkList,FooterSection,Bu
 import Skills from './skills';
 import Certification from './certification';
 import Experience from './experience';
-import Resume_fe from '../download/Resume_U.pdf';
+import Resume_fe from '../download/Resume.pdf';
 
 class Resume extends Component {
   render(){
